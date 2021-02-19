@@ -74,4 +74,5 @@ This Document guids how to use annovar.
     ├── hg19_snp138.txt
     └── hg19_snp138.txt.idx
 
+
 3: Run annovar.sh
