@@ -1,4 +1,4 @@
-This Document guid to using annovar.
+This Document guids how to use annovar.
 
 1: Download Docker software:fanyucai1/bio_tumor:2.0
 
